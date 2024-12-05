@@ -1,6 +1,3 @@
-Here’s the fully detailed and updated **README.md** file, incorporating the context and information about metrics, RAGAS library, and steps involved in evaluating a RAG pipeline:
-
----
 
 # Retrieval-Augmented Generation (RAG) Evaluation Framework  
 
@@ -234,17 +231,3 @@ AS**:
 - **Faithfulness**: Ensures generated text is grounded in retrieved content.
 
 ---
-
-## Contribution  
-
-Feel free to contribute by creating issues or submitting pull requests. If you’d like to improve any of the metrics or add more evaluation methods, your contributions are welcome!
-
----
-
-## License  
-
-This project is licensed under the MIT License.
-
----
-
-This version includes **RAGAS** for evaluation and improves clarity on retrieval and generation metrics. Feel free to modify the sections as per your use case!
